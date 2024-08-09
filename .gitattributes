@@ -1,0 +1,8 @@
+/center-config/ export-ignore
+/common/ export-ignore
+/config-repo/ export-ignore
+/discovery/ export-ignore
+/gateway/ export-ignore
+/other/ export-ignore
+/product-service/ export-ignore
+/security/ export-ignore
