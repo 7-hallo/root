@@ -12,3 +12,4 @@
 /other/ export-ignore
 /product-service/ export-ignore
 /security/ export-ignore
+/multi-tenant/ export-ignore

@@ -9,5 +9,6 @@ git clone https://github.com/7-hallo/gateway.git
 git clone https://github.com/7-hallo/other.git
 git clone https://github.com/7-hallo/product-service.git
 git clone https://github.com/7-hallo/security.git
+git clone -b 7z https://github.com/7-hallo/multi-tenant.git
 
 echo "All repositories have been cloned."
